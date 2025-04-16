@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning PHP and other web technologies.
+- 📫 How to reach me: via Email: cedricwhite327@gmail.com
+- 😄 Pronouns: He/Him
+  
 <!--
 **CedricWhite/CedricWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
